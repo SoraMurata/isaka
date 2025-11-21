@@ -6,7 +6,3 @@ sasasasa
 コミットテストをします
 
 
-
-addition 1
-
-成功!
